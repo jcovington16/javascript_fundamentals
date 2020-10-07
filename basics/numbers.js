@@ -1,3 +1,5 @@
+// remembering how to conduct math operations in javascript. 
+
 let x = 11
 let num = (x+1) * 2
 

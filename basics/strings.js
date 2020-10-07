@@ -1,3 +1,4 @@
+// remembering how to conduct string concatination
 let first_name = 'Joshua'
 let last_name = 'Covington'
 let full_name = first_name + ' ' + last_name
