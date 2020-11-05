@@ -21,6 +21,8 @@ console.log(results);
 // Null as assigned value
 let age = 27;
 
+// use null to explicit not assign a value
+// how else would we know if its undefined or explicitly set to undefined
 age = null;
 
 console.log(age);
